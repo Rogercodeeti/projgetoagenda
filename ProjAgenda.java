@@ -19,6 +19,9 @@ public class ProjAgenda {
         
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção");        
+        System.out.println("Diferença de versões");        
+
+        
 
         while (iOpcao != 6) {
             System.out.println("1-Cadastrar");
