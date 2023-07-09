@@ -14,13 +14,6 @@ public class ProjAgenda {
         long[] telefone = new long[5];     
         String sNome = "", sDados = "";
         long iNrTelefone = 0;
-      
-        System.out.println("Menu de opções");
-        System.out.println("Escolha uma opção1");
-        System.out.println("Eu sou uma pessoa prospera");
-        System.out.println("Eu vou ganhar muito dinheiro");
-        
-
 
         while (iOpcao != 6) {
             System.out.println("1-Cadastrar");
