@@ -14,9 +14,7 @@ public class ProjAgenda {
         long[] telefone = new long[5];     
         String sNome = "", sDados = "";
         long iNrTelefone = 0;
-        boolean bAchou = false;
-        String endereco = "";
-
+      
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção1");
         
