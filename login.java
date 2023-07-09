@@ -13,7 +13,7 @@ public class ProjAgenda {
         String[] nomes = new String[5];
         long[] telefone = new long[5];     
         String sNome = "", sDados = "";
-        long iNrTelefone = 0;
+       
         
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção1");
