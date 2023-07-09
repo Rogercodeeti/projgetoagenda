@@ -17,6 +17,8 @@ public class ProjAgenda {
       
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção1");
+        System.out.println("Eu sou uma pessoa prospera");
+        System.out.println("Eu vou ganhar muito dinheiro");
         
 
 
