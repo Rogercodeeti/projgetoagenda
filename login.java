@@ -16,8 +16,7 @@ public class ProjAgenda {
         long iNrTelefone = 0;
         boolean estCivil = false;
         
-        System.out.println("Escolha uma das opções");
-        System.out.println("Validação das opções") ;
+        
 
         while (iOpcao != 6) {
             System.out.println("1-Cadastrar");
