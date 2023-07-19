@@ -11,6 +11,8 @@ public class ProjAgenda {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         System.out.println("Tela principal");
+        System.out.println("CADASTROS");
+
        
     }
 
