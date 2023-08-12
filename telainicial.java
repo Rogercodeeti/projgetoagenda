@@ -15,7 +15,8 @@ public class ProjAgenda {
         String sNome = "", sDados = "";
         long iNrTelefone = 0;
         boolean bAchou = false;
-        int idade = 0;        
+        int idade = 0;     
+        String endereco   
 
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção1");
