@@ -16,13 +16,11 @@ public class ProjAgenda {
         long iNrTelefone = 0;
         boolean bAchou = false;
         int idade = 0;     
+        
        
 
         System.out.println("Menu de opções");
         System.out.println("Escolha uma opção1");
-        
-        
-
 
         while (iOpcao != 6) {
             System.out.println("1-Cadastrar");
